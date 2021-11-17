@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#ffee00,#ffa200,#ff7003,#ff330a,#ff0000)
+}
+h1{
+    font-size: 70px;
+    font-family: cursive;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2{
+    font-size: 50px;
+    font-family: cursive;   
+}
